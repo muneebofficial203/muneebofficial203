@@ -9,6 +9,7 @@ Hey there! 👋 I'm Muhammad Muneeb Khan, a passionate Full-Stack Developer (in 
 🔗 Web3 & Metaverse: Learning from GIAIC
 🛠 Project Management: Git | GitHub
 🎨 Design Tools: Figma | Canva
+
 📈 Marketing: Digital Marketing (SEO, Social Media, Ads)
 
 
