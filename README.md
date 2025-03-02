@@ -6,6 +6,10 @@ Hey there! 👋 I'm Muhammad Muneeb Khan, a passionate Full-Stack Developer (in 
 🌐 Frontend: HTML | CSS | JavaScript | TypeScript | Next.js | Tailwind CSS
 💾 Backend (Learning): Python (in progress)
 🔗 Web3 & Metaverse: Learning from GIAIC
+🛠 Project Management: Git | GitHub
+🎨 Design Tools: Figma | Canva
+
+
 
 📚 Education & Learning
 🎓 BSCS - Virtual University (2nd Semester)
